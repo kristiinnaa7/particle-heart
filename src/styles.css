@@ -1,0 +1,44 @@
+:root {
+  color-scheme: dark;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: #070308;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+  background: #070308;
+}
+
+.experience {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  height: 100svh;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 50% 52%, rgba(120, 12, 46, 0.24), transparent 55%),
+    #070308;
+}
+
+.heart-stage {
+  position: absolute;
+  inset: 0;
+}
+
+.particle-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
