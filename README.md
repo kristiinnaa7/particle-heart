@@ -1,8 +1,8 @@
 # Particle Heart
 
-A small interactive particle heart built with React, Vite and PixiJS 8.
+A small interactive particle heart built with React, Vite and PixiJS 8, with the assistance of the AI coding tool OpenCode.
 
-Thousands of particles form a softly beating heart in the center of the screen. Move the pointer through it to ripple the particles, and click the heart to scatter them and watch them reform.
+Thousands of particles form a beating heart. Move the pointer through it to ripple the particles, and click the heart to scatter them and watch them reform.
 
 ## Requirements
 
